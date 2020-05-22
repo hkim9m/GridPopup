@@ -63,6 +63,7 @@ namespace GridPopup
 
         private void btnPopup_Click(object sender, EventArgs e)
         {
+            
             Popup pop = new Popup();
             
             pop.ShowDialog();
